@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HOLA</title>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Blog</h1>
+        </header>
+
+        <section>
+            <article>
+                <h2>Articulo 1</h2>
+                <p>Descripcion del titulo 1</p>
+                <img src="img/gato.jpg" alt="A cat" height="100">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure cupiditate tempore illo laboriosam perferendis perspiciatis, culpa temporibus aliquam iusto non molestiae? Voluptates unde nam aliquam pariatur tempora quasi, veritatis labore.</p>
+            </article>
+
+            <article>
+                <h2>Articulo 2</h2>
+                <p>Descripcion del titulo 1</p>
+                <img src="img/gato.jpg" alt="A cat" height="100">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure cupiditate tempore illo laboriosam perferendis perspiciatis, culpa temporibus aliquam iusto non molestiae? Voluptates unde nam aliquam pariatur tempora quasi, veritatis labore.</p>
+            </article>
+
+            <article>
+                <h2>Articulo 3</h2>
+                <p>Descripcion del titulo 1</p>
+                <img src="img/gato.jpg" alt="A cat" height="100">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure cupiditate tempore illo laboriosam perferendis perspiciatis, culpa temporibus aliquam iusto non molestiae? Voluptates unde nam aliquam pariatur tempora quasi, veritatis labore.</p>
+                <ul>
+                    <li>Gato 1</li>
+                    <li>Gato 2</li>
+                    <li>Gato 3</li>
+                    <li>Gato 4</li>
+                    <li>Gato 5</li>
+                    <li>Gato 6</li>
+                </ul>
+            </article>
+        </section>
+
+        <footer>
+            <a target="_blank" href="mailto:guillermosilvam13@gmail.com">Contactanos</a>
+        </footer>
+    </div>
+</body>
+</html>
